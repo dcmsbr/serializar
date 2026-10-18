@@ -1,0 +1,16 @@
+{
+  "name": "Rerun",
+  "short_name": "Rerun",
+  "description": "Acompanhe suas séries, novos episódios e o que você reassistiu.",
+  "lang": "pt-BR",
+  "start_url": "./#upnext",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0F1420",
+  "theme_color": "#0F1420",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
